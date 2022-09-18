@@ -1,6 +1,6 @@
 # Data-Structures
-===============================================================TABLE OF CONTENT====================================================================================
- Serial Number--------------------------Name of File-------------------------------------Purpose-----------------------------------------------------------------------
+                                                         TABLE OF CONTENT
+ Serial Numbe                           Name of File                                     Purpose
  1.                                     Array                                            This is the implementation of jagged array
  2.                                     BinarySearchTree                                 Construct a binary tree and search element that exist in it or not  
  3.                                     ColumnMajor                                      Calculate the memory address of the element(column wise) of two dimensional                                                                                            array through a self derived formula and generalized formula of slot
