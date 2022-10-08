@@ -9,3 +9,4 @@
  6.                                     treetraversal                                    Calculate the inorder,preorder and postorder of the given expression tree
  7.                                     ExpressionParsor                                 Convert infix expression to postfix and evaluate it
  8.                                     Stackusingarray                                  Adaption of all the functions of stack
+ 9.                                     DynamicLinkedList                                Creating a dynamic linked list and printing it.
