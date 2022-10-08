@@ -10,3 +10,5 @@
  7.                                     ExpressionParsor                                 Convert infix expression to postfix and evaluate it
  8.                                     Stackusingarray                                  Adaption of all the functions of stack
  9.                                     DynamicLinkedList                                Creating a dynamic linked list and printing it.
+ 10.                                    BinaryHeapTree                                   Applying the Minimum propery of BinaryHeapTree
+ 
