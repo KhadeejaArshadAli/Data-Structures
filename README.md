@@ -13,3 +13,4 @@
  10.                                    BinaryHeapTree                                   Applying the Minimum propery of BinaryHeapTree
  11.                                    Graph                                            Storing different types of graph through adjacency matrix and calculating  
                                                                                          Indegree and Outdegree
+ 12.                                    Graphtextfile                                    Read a text for edges and type of graph and stores it in adjacency matrix and                                                                                          calculating Indegree and Outdegree
