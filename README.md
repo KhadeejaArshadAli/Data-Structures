@@ -16,3 +16,4 @@
  12.                                    Graphtextfile                                    Read a text for edges and type of graph and stores it in adjacency matrix and                                                                                          calculating Indegree and Outdegree
 13.                                     TopologicalSorting                               Adaption of Topological Sorting
 14.                                     DijkstraAlgorithm                                Calculate the distance of each vertex and give the shortest path to your                                                                                                desired destination
+15.                                     ClosedHashing                                    Create Hash table using array insert element, calculate loadfactor, and does                                                                                            rehashing
